@@ -12,7 +12,7 @@
 <br/>
 <br/>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iiam33&show_icons=true&theme=light&locale=en" alt="github-stats-iiam33" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iiam33&show_icons=true&theme=light&locale=en" alt="github-stats-iiam33" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iiam33&theme=light" alt="streak-stats-iiam33" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iiam33&theme=light" alt="streak-stats-iiam33" />
 
