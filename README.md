@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvin Yeoh Hong Yoong</h1>
 
-<h3 align="center">Web Developer | Mobile Application Developer | Machine Learning & Computer Vision Engineer.</h3>
+<h3 align="center">Machine Learning & Computer Vision Engineer | Web Developer | Mobile Application Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiam33&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile-views-iiam33" /> </p>
 
