@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/alvin-yeoh-hong-yoong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaiai" height="30" width="40" />
 </p>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iiam33&show_icons=true&theme=dark&locale=en" alt="github-stats-iiam33" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iiam33&show_icons=true&theme=light&locale=en" alt="github-stats-iiam33" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iiam33&theme=dark" alt="streak-stats-iiam33" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iiam33&theme=light" alt="streak-stats-iiam33" /></p>
 
