@@ -1,6 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alvin Yeoh Hong Yoong</h1>
 
 **iiam33/iiam33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iiam33&label=Profile%20views&color=0e75b6&style=flat-square" alt="iiam33" /> </p>
 
 Here are some ideas to get you started:
 
