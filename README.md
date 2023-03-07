@@ -12,7 +12,8 @@
 <br/>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam33&theme=react&hide=HTML&langs_count=10&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiam33&theme=react&hide=HTML&langs_count=10&layout=compact" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iiam33" />
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iiam33&show_icons=true&theme=light&locale=en" alt="github-stats-iiam33" />
 
